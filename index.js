@@ -42,11 +42,11 @@ function clock(){
    
     
     
-    function settime(){
+    function myFunction(){
 
         var i=document.getElementById("wakeUpTimeSelector").value;
         var hour=new Date().getHours();
-        alert(hour);
+
              
         if(i==hour){
             document.getElementById("item4").style.backgroundImage="url(./images/wakwup_image.png)";
