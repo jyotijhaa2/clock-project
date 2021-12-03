@@ -63,7 +63,7 @@ function clock(){
             document.getElementsByClassName("good-after-noon").innerHTML="Good Afternoon";
         }
     
-        var k=document.getElementById("lunchTimeSelector").value;
+        var k=document.getElementById("napTimeSelector").value;
         
         if(k==hour){
             document.getElementById("item4").style.backgroundImage="url(./images/goodnight_image.png)";
