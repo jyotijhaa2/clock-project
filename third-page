@@ -1,0 +1,77 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Clock Project</title>
+</head>
+
+<body bgcolor="#3D087B">
+    <!-- <div class="main-container">
+        <div id="grid-container1">
+              <div class="grid-item" id="clock-pic"></div>
+              <div class="grid-item" id="left-second-container">
+
+                <div class="left-second-container-inner"></div>
+                <div class="left-second-container-inner"></div>
+                <div class="left-second-container-inner"></div>
+
+            </div>
+        </div>
+        <div id="grid-container2"></div>
+    </div> -->
+    <div class="main-container">
+        <div class="item" id="clock-pic"><img src="./images/clock_logo.png"></div>
+        
+        
+        <div class="item">item2</div>
+       
+       
+        <div class="item" id="item3">
+
+
+          <div class="item3-first-part">
+              <label for="wake-up" id="wakeup">Set wake up time</label>
+              <select name="wake-up" id="wake-up">
+                  <option value="1"></option>
+              </select>
+          </div>
+          <div class="item3-second-part">
+                   <label for="lunch-time">Set lunch time</label>
+                   <select name="lunch-time" id="">
+                       <option value=""></option>
+                   </select>
+
+          </div>
+          <div class="item3-third-part">
+            <label for="nap-time">Set nap time</label>
+            <select name="nap-time" id="">
+                <option value="">default</option>
+            </select>
+
+          </div>
+        
+        
+        </div>
+
+
+
+
+
+
+
+        <div class="item">item4</div>
+
+
+        <div class="item" id="item5"><p class="">GOOD AFTRENOON</p></div>
+        <div class="item">item6</div>
+        <div class="item" id="item7"> Party time</div>
+        <div class="item">item8</div>
+        <div class="item">item9</div>
+    </div>
+</body>
+
+</html> -->
